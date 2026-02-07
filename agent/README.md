@@ -1,4 +1,5 @@
-Purpose:
-Generate short, engaging YouTube Short ideas based on psychology topics.
-
-This agent will take a single command and automatically produce short-form content ideas.
+Workflow:
+1. Receive a goal from a single command.
+2. Analyze the goal.
+3. Generate short psychology-based content ideas.
+4. Finish automatically without further input.
